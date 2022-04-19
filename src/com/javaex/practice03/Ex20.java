@@ -15,7 +15,6 @@ public class Ex20 {
 	
 			int num = (int)(Math.random()*100)+1; //숫자 설정
 
-			Loop2 :
 			while(true) {
 				System.out.print(">>");
 				int myNum = sc.nextInt();
