@@ -15,16 +15,12 @@ public class Ex11 {
 			for(int i=1; i<=num; i++) { //입력받은 숫자만큼 반복
 				if(i%2 == 0) { //짝수인 수를 합함
 					result += i;
-				} else {
-					continue;
 				}
 			}
 		} else { //숫자가 홀수일때
 			for(int i=1; i<=num; i++) { //입력받은 숫자만큼 반복
 				if(i%2 != 0) { //홀수인 수를 합함
 					result += i;
-				} else {
-					continue;
 				}
 			}
 		}
