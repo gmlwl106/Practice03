@@ -28,8 +28,6 @@ public class Ex20 {
 				
 				if(y_n == 'y') {
 					break; //게임 종료
-				} else {
-					continue; //계속하기
 				}
 			}
 		}
