@@ -32,7 +32,7 @@ public class Ex20 {
 					if(y_n == 'y') {
 						break Loop1; //게임 종료
 					} else {
-						break;
+						break; //처음으로
 					}
 				}
 			}
